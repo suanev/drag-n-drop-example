@@ -30,6 +30,11 @@
 > Biblioteca responsável por criar o drag and drop no react:
 > [React DnD](https://react-dnd.github.io/react-dnd/docs/overview)
 
+## Demo
+<p align="center">
+    <img src="https://media1.giphy.com/media/Pmqnf8KfagGJiMdP8o/giphy.gif" alt="Preview Live Demo Image">
+</p>
+
 ## Tutorial por
 
 [Rocketseat](https://rocketseat.com.br/)
