@@ -20,7 +20,7 @@
 
 ### Pegando o tamanho de um elemento:
 
-> **Element.getBoundingClientRect():** O método Element.getBoundingClientRect() retorna o tamanho de um elemento e sua posição relativa ao viewport.
+> **Element.getBoundingClientRect():** >> O método Element.getBoundingClientRect() retorna o tamanho de um elemento e sua posição relativa ao viewport.
 
 ## Tecnologias utilizadas
 
@@ -29,9 +29,6 @@
 
 > Biblioteca responsável por criar o drag and drop no react:
 > [React DnD](https://react-dnd.github.io/react-dnd/docs/overview)
-
-> Immer: 
->[Immer](https://immerjs.github.io/immer/docs/introduction)
 
 ## Tutorial por
 
